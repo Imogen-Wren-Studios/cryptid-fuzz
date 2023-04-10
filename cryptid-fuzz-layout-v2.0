@@ -2127,29 +2127,6 @@
       <folded>false</folded>
       <pinSpacing value="0.1" unit="in"/>
     </diylc.semiconductors.TransistorTO1>
-    <diylc.passive.Resistor>
-      <name>R22</name>
-      <alpha>59</alpha>
-      <length value="4.0" unit="mm"/>
-      <width value="2.0" unit="mm"/>
-      <points>
-        <point x="9.4" y="5.2"/>
-        <point x="9.4" y="5.5"/>
-        <point x="9.4" y="5.35"/>
-      </points>
-      <bodyColor hex="00ffff"/>
-      <borderColor hex="009900"/>
-      <labelColor hex="ffff00"/>
-      <leadColor hex="cccccc"/>
-      <display>VALUE</display>
-      <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
-      <moveLabel>false</moveLabel>
-      <value value="100.0" unit="K"/>
-      <power>HALF</power>
-      <colorCode>NONE</colorCode>
-      <shape>Standard</shape>
-    </diylc.passive.Resistor>
     <diylc.passive.RadialElectrolytic>
       <name>C21</name>
       <alpha>127</alpha>
